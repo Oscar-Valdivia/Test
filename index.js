@@ -1,2 +1,3 @@
 console.log('Hi');
-console.log('Hello from here');
+console.log('Correct Line');
+console.log('And this is my correct line');
